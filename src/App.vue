@@ -4,7 +4,7 @@
       <MainTittle/>
       <mainButton @:click="exitIntro"/>
     </div>
-  </Transition>>
+  </Transition>
     <div class="action-container" v-if="visIntro===false">
       <!--<gridSlider :ItemList="lists"/>-->
       <gridSlider :ItemList="lists" @sendcard="setCurrentCard"/>
