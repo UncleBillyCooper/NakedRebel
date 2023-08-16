@@ -57,14 +57,14 @@
 img{
  display: inline-block;
  
- width: calc((1vw+1vh)*3);
- height: calc((1vw+1vh)*3);;
+ width: calc(3 * (1vw + 1vh));
+ height: calc(3 * (1vw + 1vh));;
  align-self: center;
 }
 
 p {
  font-family: 'myKellySlab';
- font-size: calc((1vw+1vh)*1.5);
+ font-size: calc(1.5 * (1vw + 1vh));
 }
 h1,h3{
  font-family: 'myPlaybill';
@@ -73,12 +73,12 @@ h1,h3{
 }
 
 h1{
- font-size: calc((1vw+1vh)*4);
+ font-size: calc(4 * (1vw + 1vh));
  
 }
 
 h3{
- font-size: calc((1vw+1vh)*2);
+ font-size: calc(2 * (1vw + 1vh));
  /*font-size: 30px;*/
 }
 </style>
