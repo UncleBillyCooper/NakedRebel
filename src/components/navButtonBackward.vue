@@ -18,7 +18,7 @@ button{
   width: 30%;
   height: 100%;
   clip-path: polygon(100% 0%, 90% 50%, 100% 100%, 25% 100%, 10% 50%, 25% 0%);
-  font-size: calc((1vw+1vh)*2);
+  font-size: calc(2 * (1vw + 1vh));
   
   background-color: rgb(0, 255, 0);
   border: none;
