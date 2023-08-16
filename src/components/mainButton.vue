@@ -52,7 +52,7 @@
   border-radius: 10px;
   background: linear-gradient(135deg, rgba(49,38,177,0.65) 0%, rgba(255,0,10,0.87) 60%, rgba(36,43,220,0.61) 100%);
   font-family: 'myPlaybill';
-  font-size: clamp(50px, calc(2 * (1vw + 1vh)), 80px) 
+  font-size: clamp(50px, calc((2vw + 2vh)), 80px) 
    
   border-bottom: 6px rgba(139, 0, 0,1) solid;
   border-left: 6px rgba(139, 0, 0,.8) solid;
