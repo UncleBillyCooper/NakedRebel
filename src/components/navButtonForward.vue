@@ -37,4 +37,9 @@ button:active {
 
   
 }
+  @media (max-width: 860px) {
+ button{
+  color: rgb(0, 255, 0);
+ }
+}
 </style>
