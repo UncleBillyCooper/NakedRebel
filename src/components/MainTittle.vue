@@ -74,12 +74,12 @@ h1,h3{
 }
 
 h1{
- font-size: calc(4 * (1vw + 1vh));
+ font-size: calc(3 * (1vw + 1vh));
  
 }
 
 h3{
- font-size: calc(2 * (1vw + 1vh));
+ font-size: calc(1.5 * (1vw + 1vh));
  /*font-size: 30px;*/
 }
 </style>
