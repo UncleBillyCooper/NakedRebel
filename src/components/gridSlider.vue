@@ -234,10 +234,10 @@ import navButtonBackward from "./navButtonBackward.vue";
     }
 
     .card{
-      height: calc(9vw + 9vh);
+      height: calc(8vw + 8vh);
     }
     .title {
-      font-size: calc(2.5vw + 2.5vh);
+      font-size: calc(2vw + 2vh);
   
     }
 
