@@ -37,7 +37,7 @@
 }
 .button{
  /*width: 50vw;*/
- width: clamp(150px, 70dvw, 684); 
+ width: clamp(150px, 70%, 684); 
  height: 8vw;
  /*border: 2px black solid;*/
  border: none;
