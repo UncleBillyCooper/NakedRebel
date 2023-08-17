@@ -119,7 +119,7 @@ import navButtonBackward from "./navButtonBackward.vue";
 
  .card{
   width: 80%;
-  height: calc((1vw+1vh)*4.5);
+  height: calc(4.5vw + 4.5vh);
   border-bottom: 4px grey solid;
   border-right: 4px grey solid;;
   padding: 5px;
@@ -169,7 +169,7 @@ import navButtonBackward from "./navButtonBackward.vue";
   font-weight: 300;
   color: white;
   font-family: 'Carnaval';
-  font-size: calc((1vw+1vh)*1.5);
+  font-size: calc(1.5vw + 1.5vh);
 }
  
  .item{
@@ -207,7 +207,7 @@ import navButtonBackward from "./navButtonBackward.vue";
 
  
 .currentSlideNum>h2{
-  font-size: calc((1vw+1vh)*3);
+  font-size: calc(3vw + 3vh);
   
 }
 
@@ -234,10 +234,10 @@ import navButtonBackward from "./navButtonBackward.vue";
     }
 
     .card{
-      height: calc((1vw+1vh)*9);
+      height: calc(9vw + 9vh);
     }
     .title {
-      font-size: calc((1vw+1vh)*3);
+      font-size: calc(3vw + 3vh);
   
     }
 
@@ -250,7 +250,7 @@ import navButtonBackward from "./navButtonBackward.vue";
     }
 
     .currentSlideNum>h2{
-      font-size: calc((1vw+1vh)*4);
+      font-size: calc(4vw + 4vh);
   
     }
   }
@@ -276,7 +276,7 @@ import navButtonBackward from "./navButtonBackward.vue";
       border: none;
     }
     .currentSlideNum>h2{
-      font-size: calc((1vw+1vh)*5);
+      font-size: calc(5vw + 5vh);
   
     }
   }
