@@ -48,7 +48,7 @@
  
 }
  button{
-  width: 50vw;
+  /*width: 50vw;*/
   height: 8vw;
   border-radius: 10px;
   background: linear-gradient(135deg, rgba(49,38,177,0.65) 0%, rgba(255,0,10,0.87) 60%, rgba(36,43,220,0.61) 100%);
