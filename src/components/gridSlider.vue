@@ -237,7 +237,7 @@ import navButtonBackward from "./navButtonBackward.vue";
       height: calc(9vw + 9vh);
     }
     .title {
-      font-size: calc(3vw + 3vh);
+      font-size: calc(2.5vw + 2.5vh);
   
     }
 
