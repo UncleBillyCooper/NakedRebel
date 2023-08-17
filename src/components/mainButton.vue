@@ -38,7 +38,8 @@
 .button{
  /*width: 50vw;*/
  width: 60vw; 
- height: 8vw;
+ height: 10vw;
+ min-height: 69px;
  /*border: 2px black solid;*/
  border: none;
  
@@ -50,7 +51,7 @@
  button{
   /*width: 50vw;*/
   width: 100%; 
-  height: 8vw;
+  height: 100%;
   border-radius: 10px;
   background: linear-gradient(135deg, rgba(49,38,177,0.65) 0%, rgba(255,0,10,0.87) 60%, rgba(36,43,220,0.61) 100%);
   font-family: 'myPlaybill';
