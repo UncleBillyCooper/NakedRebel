@@ -38,7 +38,7 @@
 .button{
  /*width: 50vw;*/
  width: 60vw; 
- height: 10vw;
+ height: 8vw;
  min-height: 69px;
  /*border: 2px black solid;*/
  border: none;
