@@ -108,14 +108,14 @@
  position: absolute;
  left: 15%;
  /*top: 15%;*/
- top: 11vh;
+ top: 10vh;
  z-index: 2;
 }
 
 #trousers{
  position: absolute;
  left: 32%;
- top: 35vh;
+ top: 30vh;
  z-index: 1;
 }
 
