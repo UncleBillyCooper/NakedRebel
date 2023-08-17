@@ -119,7 +119,7 @@ import navButtonBackward from "./navButtonBackward.vue";
 
  .card{
   width: 80%;
-  height: calc(4.5vw + 4.5vh);
+  height: calc(4vw + 4vh);
   border-bottom: 4px grey solid;
   border-right: 4px grey solid;;
   padding: 5px;
@@ -169,7 +169,7 @@ import navButtonBackward from "./navButtonBackward.vue";
   font-weight: 300;
   color: white;
   font-family: 'Carnaval';
-  font-size: calc(1.5vw + 1.5vh);
+  font-size: calc(1vw + 1vh);
 }
  
  .item{
