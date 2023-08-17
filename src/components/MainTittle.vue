@@ -64,7 +64,8 @@ img{
 
 p {
  font-family: 'myKellySlab';
- /*font-size: calc(1.5 * (1vw + 1vh));*/
+ /*font-size: calc(1.5vw + 1.5vh);*/
+ font-size: clamp(9px, calc(1.5vw + 1.5vh), 40px);
 }
 h1,h3{
  font-family: 'myPlaybill';
